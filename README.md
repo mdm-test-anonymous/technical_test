@@ -22,7 +22,7 @@ https://github.com/NTAIRec/technical_test.git
 
 # Content of the technical test (In French below)
 
-The order doesn't matter, it doesn't matter either if you don't finish all the parts.
+The order doesn't matter, it doesn't matter either if you don't finish all the parts. If you need more python librairies, you can add them executing the following command in a cell : !pip install <the_package_name> (dont forget the !)
 
 -  Part 1: Predicting the position of a city from weather data
 The objective of this exercise is to try to predict whether a city is above or below the 60th parallel based on temperature and precipitation readings in winter 2015 and 2016.
@@ -40,7 +40,8 @@ The objective of this exercise is to propose a descriptive synthesis of the data
 
 # Contenu du test technique
 
-L’ordre n’a pas d’importance, ce n’est pas grave non plus de ne pas finir toutes les parties.
+L’ordre n’a pas d’importance, ce n’est pas grave non plus de ne pas finir toutes les parties. Si vous avez besoin d'autres librairies python, vous pouvez les ajouter via la commande suivante dans une cellule : !pip install <the_package_name> (ne pas oublier le !)
+
 -  1ère Partie : Prédiction de la position d’une ville à partir de données météo
 L’objectif de cet exercice est d’essayer de prédire si une ville se trouve au-dessus ou en dessous du 60ème parallèle en fonction des relevés de température et de précipitation en hiver 2015 et 2016.
 Pour cela charger le fichier : data_ex_1.csv 
