@@ -3,6 +3,7 @@
 To carry out the technical test, we advise you to use this platform : / Pour réaliser le test technique, nous vous conseillons d'utiliser cette plateforme :
 
 https://mybinder.org/
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NTAIRec/technical_test.git/master)
 
 How it works: / Comment ça marche : 
 
