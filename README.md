@@ -11,6 +11,7 @@ https://github.com/NTAIRec/technical_test.git
 ![Visualization](https://github.com/NTAIRec/technical_test/blob/master/img/binder.png)
 
 -  Once the Jupyter server has been created : / Une fois le serveur Jupyter créé :
+![Jupyter Server](https://github.com/NTAIRec/technical_test/blob/master/img/jupyter_server.png)
 
 
 -  The candidate is working on his version of the Jupyter, no modifications on the Github repo: / Le candidat travaille sur sa version du Jupyter, pas de modification sur le repo Github :
