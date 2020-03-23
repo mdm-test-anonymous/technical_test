@@ -15,6 +15,7 @@ https://github.com/NTAIRec/technical_test.git
 
 
 -  The candidate is working on his version of the Jupyter, no modifications on the Github repo: / Le candidat travaille sur sa version du Jupyter, pas de modification sur le repo Github :
+![Notebook](https://github.com/NTAIRec/technical_test/blob/master/img/Notebook.png)
 
 
 -  At the end of the work, the candidate downloads his version of the notebook and sends it to us for discussion. / A la fin du travail, le candidat télécharge sa version du notebook et nous l’envoie pour discussion.
