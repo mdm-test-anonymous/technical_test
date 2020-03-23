@@ -8,7 +8,7 @@ How it works: / Comment ça marche :
 
 -  The candidate opens the Binder page, and fills in the repo information: / Le candidat ouvre la page Binder, et renseigne les informations du repo :
 https://github.com/NTAIRec/technical_test.git
-
+![Visualization](https://github.com/NTAIRec/technical_test/blob/master/img/binder.png)
 
 -  Once the Jupyter server has been created : / Une fois le serveur Jupyter créé :
 
