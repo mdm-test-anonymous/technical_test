@@ -38,9 +38,8 @@ The objective of this exercise is to try to predict whether or not a building is
 To do this use the file: data_ex_2.csv
 The three issues will have to be addressed by two models together.
 
--  Part 3: Data visualization
-The objective of this exercise is to propose a descriptive synthesis of the data for the file result-provisional-by-canton.txt and result-provisional-by-canton-light.txt, (If processing a and b takes too much time, use the file result-provisional-by-canton-light.txt). Trying to get something like this:
-![Visualization](https://github.com/NTAIRec/technical_test/blob/master/img/visulisation.png)
+-  Part 3: SQL
+The objective of this exercise is to mnipulate data in SQL
 
 # Contenu du test technique
 
@@ -57,6 +56,5 @@ Pour cela utiliser le fichier : data_ex_2.csv
 Les trois questions devront être traitée par deux modèles ensemblistes.
 
 
--  3ème partie : Visualisation de données
-L’objectif de cet exercice est de proposer une synthèse descriptive des données pour le fichier resultats-provisoires-par-canton.txt et resultats-provisoires-par-canton-light.txt (Si jamais le traitement a et b vous prenaient trop de temps, utiliser le fichier resultats-provisoires-par-canton-light.txt). Essayer d’avoir quelque chose du genre :
-![Visualisation](https://github.com/NTAIRec/technical_test/blob/master/img/visulisation.png)
+-  3ème partie : SQL
+L’objectif de cet exercice est de manipuler des données en sql
